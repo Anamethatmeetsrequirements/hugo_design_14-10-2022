@@ -6,6 +6,8 @@ export default function Home() {
   return (
     <div>
       <h1>Homepage</h1>
+      <p>lorem-ipsum</p>
+      <p>lorem-ipsum</p>
     </div>
   )
 }
