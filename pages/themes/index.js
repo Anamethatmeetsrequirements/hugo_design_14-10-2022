@@ -1,9 +1,9 @@
-const Ninjas = () => {
+const Themes = () => {
     return (  
         <div>
-            <h1>All Ninjas</h1>
+            <h1>Themes</h1>
         </div>
     );
 }
  
-export default Ninjas;
+export default Themes;
