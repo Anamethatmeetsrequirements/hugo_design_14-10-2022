@@ -102,16 +102,17 @@ languageName = ":uk:"
 [[languages.en.menu.main]]
 name = "About"
 weight = 1
-url = "about/"
+url = "/about/"
 
 [[languages.en.menu.main]]
 name = "Statistics"
 weight = 2
-url = "Statistics/"
+url = "/statistics/"
 
 [[languages.en.menu.main]]
 name = "The Plan"
 weight = 3
-url = "The-Plan/"
-theme = "hugo-codere"
-theme = "hugo-coder"
+url = "the-plan/"
+
+contentDir = "content"
+
