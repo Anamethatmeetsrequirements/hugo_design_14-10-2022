@@ -15,7 +15,7 @@ author = "The Environment Tracker"
 description = "Defra's environmental tracker website for the UK government's environmental improvement plans"
 keywords = "defra, government, uk, environment,"
 info = ["The website for tracking England's environment"]
-avatarURL = "oif/static/defra_logo.png"
+avatarURL = "images/defra_logo.png"
 dateFormat = "October 13 2022"
 
 #since = 2019
