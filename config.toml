@@ -107,10 +107,10 @@ url = "/about/"
 [[languages.en.menu.main]]
 name = "Statistics"
 weight = 2
-url = "/statistics/Air.md"
+url = "/statistics/A"
 
 [[languages.en.menu.main]]
 name = "The Plan"
 weight = 3
-url = "the-plan/"
+url = "/the-plan/"
 
