@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "/"
 title = "Defra"
 theme = "hugo-coder"
 languageCode = "en"
@@ -15,7 +15,7 @@ author = "The Environment Tracker"
 description = "Defra's environmental tracker website for the UK government's environmental improvement plans"
 keywords = "defra, government, uk, environment,"
 info = ["The website for tracking England's environment"]
-avatarURL = "static/defra_logo.png"
+avatarURL = "oif/static/defra_logo.png"
 dateFormat = "October 13 2022"
 
 #since = 2019
@@ -107,10 +107,11 @@ url = "/about/"
 [[languages.en.menu.main]]
 name = "Statistics"
 weight = 2
-url = "/statistics/A"
+url = "/statistics/"
 
 [[languages.en.menu.main]]
 name = "The Plan"
 weight = 3
-url = "/the-plan/"
+url = "https://www.gov.uk/government/publications/25-year-environment-plan/25-year-environment-plan-our-targets-at-a-glance"
 
+contentDir = "content"
