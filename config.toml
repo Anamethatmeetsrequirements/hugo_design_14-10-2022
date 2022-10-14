@@ -1,6 +1,5 @@
 baseURL = "https://Anamethatmeetsrequirements.github.io"
 title = "Defra"
-theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
 paginate = 20
